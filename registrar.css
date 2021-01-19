@@ -1,0 +1,65 @@
+body{
+    background: url(wp3632856.jpg);
+    font-family: Verdana, sans-serif;
+}
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: center;
+}
+
+.card{
+    box-shadow: 1px 1px 1px #ccc;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.img{
+    max-width: 100px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+.card-top{
+    text-align: center;
+}
+
+.card-group{
+    margin-bottom: 10px;
+}
+.card-top h2{
+    color: #dc3545;
+}
+
+.card-top p{
+    color: gray;
+}
+
+.card-group label{
+    width: 100%;
+    color: rgb(92, 91, 91);
+    display: inline-block;
+}
+
+.card-group input{
+    border-radius: 5px;
+    outline: 0;
+    width: 100%;
+    height: 25px;
+    padding: 5px;
+    
+}
+
+.card-group button{
+    margin: 10px;
+    background-color: #ff002b;
+    width: 100%;
+    border-radius: 30px;
+    padding: 15px;
+    right: 10px;
+    color: white;
+    border: 0px;
+}
